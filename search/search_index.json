@@ -1,1 +1,1 @@
-{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"test/","title":"Test","text":"<p>this is a test md file, test wiki links wiki</p>"},{"location":"notes/testnote/","title":"Testnote","text":"<p>this is a testnote wiki</p>"}]}
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"test/","title":"Test","text":"<p>this is a test md file, test wiki links wiki</p> <p>notes</p>"},{"location":"notes/testnote/","title":"Testnote","text":"<p>this is a testnote wiki test</p>"}]}
